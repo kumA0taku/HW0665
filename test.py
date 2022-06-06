@@ -1,1 +1,1 @@
-"""GGG"""
+print('Good day')
